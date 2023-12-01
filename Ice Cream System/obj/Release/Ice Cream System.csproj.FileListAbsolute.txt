@@ -1,0 +1,10 @@
+C:\Users\canat\OneDrive\Masaüstü\My Codes\C#\Ice Cream System\Ice Cream System\bin\Release\Ice Cream System.exe.config
+C:\Users\canat\OneDrive\Masaüstü\My Codes\C#\Ice Cream System\Ice Cream System\bin\Release\Ice Cream System.exe
+C:\Users\canat\OneDrive\Masaüstü\My Codes\C#\Ice Cream System\Ice Cream System\bin\Release\Ice Cream System.pdb
+C:\Users\canat\OneDrive\Masaüstü\My Codes\C#\Ice Cream System\Ice Cream System\obj\Release\Ice Cream System.csproj.AssemblyReference.cache
+C:\Users\canat\OneDrive\Masaüstü\My Codes\C#\Ice Cream System\Ice Cream System\obj\Release\ICS.ICS.resources
+C:\Users\canat\OneDrive\Masaüstü\My Codes\C#\Ice Cream System\Ice Cream System\obj\Release\ICS.Properties.Resources.resources
+C:\Users\canat\OneDrive\Masaüstü\My Codes\C#\Ice Cream System\Ice Cream System\obj\Release\Ice Cream System.csproj.GenerateResource.cache
+C:\Users\canat\OneDrive\Masaüstü\My Codes\C#\Ice Cream System\Ice Cream System\obj\Release\Ice Cream System.csproj.CoreCompileInputs.cache
+C:\Users\canat\OneDrive\Masaüstü\My Codes\C#\Ice Cream System\Ice Cream System\obj\Release\Ice Cream System.exe
+C:\Users\canat\OneDrive\Masaüstü\My Codes\C#\Ice Cream System\Ice Cream System\obj\Release\Ice Cream System.pdb

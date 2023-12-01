@@ -1,0 +1,10 @@
+C:\Users\canat\OneDrive\Masaüstü\My Codes\C#\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\canat\OneDrive\Masaüstü\My Codes\C#\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\canat\OneDrive\Masaüstü\My Codes\C#\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\canat\OneDrive\Masaüstü\My Codes\C#\Assignment\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+C:\Users\canat\OneDrive\Masaüstü\My Codes\C#\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\canat\OneDrive\Masaüstü\My Codes\C#\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+C:\Users\canat\OneDrive\Masaüstü\My Codes\C#\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\canat\OneDrive\Masaüstü\My Codes\C#\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\canat\OneDrive\Masaüstü\My Codes\C#\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\canat\OneDrive\Masaüstü\My Codes\C#\Assignment\Assignment\obj\Debug\Assignment.ICS.resources
